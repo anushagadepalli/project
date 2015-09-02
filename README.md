@@ -1,2 +1,0 @@
-# project
-ASE lab assignment
